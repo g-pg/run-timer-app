@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Run Timer</string>
+    <string name="title_activity_main">Run Timer</string>
+    <string name="package_name">gpg.timer.app</string>
+    <string name="custom_url_scheme">gpg.timer.app</string>
+</resources>
